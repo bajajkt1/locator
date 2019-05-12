@@ -1,7 +1,7 @@
 #!/bin/bash
 # Locator v1.0
 # Coded by: bajajkt1 (You dont become a coder by just changing the credits)
-# Github: https://github.com/belajarlocator/test
+# Github: https://github.com/bajajkt1/locator
 
 trap 'printf "\n";stop;exit 1' 2
 
